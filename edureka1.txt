@@ -1,1 +1,4 @@
 this is just for learning GIT
+
+
+want to test show command
