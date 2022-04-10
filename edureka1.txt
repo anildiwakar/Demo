@@ -1,4 +1,7 @@
-this is just for learning GIT
+This is just for learning GIT
 
 
 want to test show command
+
+
+is it working
